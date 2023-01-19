@@ -1,3 +1,4 @@
-# Kaggle_projects
-briefly speaking, here you'll find projects about data science with databases from the Kaggle website.
-This idea came to me after a long search until finding out about Kaggle. 
+data science jobs salaries
+The project is composed of two parts:
+First: The main analysis was made in excel and generated a dashboard.
+Second: It had as its goal to study how was the behavior's frequency of attacks.
